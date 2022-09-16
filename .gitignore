@@ -1,3 +1,2 @@
 .images/*
-!.images/log.sh
-!.images/upload.sh
+*.local.*
