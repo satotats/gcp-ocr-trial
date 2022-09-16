@@ -20,5 +20,6 @@
         <module>ocr-process-image</module>
         <module>ocr-save-result</module>
         <module>ocr-translate-text</module>
+        <module>vision-api-sandbox</module>
     </modules>
 </project>
