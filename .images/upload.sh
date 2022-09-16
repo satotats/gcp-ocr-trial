@@ -1,0 +1,1 @@
+gsutil cp PATH_TO_IMAGE gs://YOUR_IMAGE_BUCKET_NAME
