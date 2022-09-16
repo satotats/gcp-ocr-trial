@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="functions-ocr-translate-text" />
         <module name="functions-ocr-save-result" />
         <module name="functions-ocr-process-image" />
-        <module name="functions-ocr-translate-text" />
+        <module name="vision-api-sandbox" />
       </profile>
     </annotationProcessing>
   </component>
